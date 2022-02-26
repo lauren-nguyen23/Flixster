@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="https://imgur.com/xlZozVo" width=250><br>
+<img src="https://i.imgur.com/xlZozVo.gif" width=250><br>
 
 ### Notes
 I got a bug when I was following video 2.1; the log didn't show onSuccess. Then I ran the emulator, uninstalled the app (inside Settings), and ran it again and it worked :)
